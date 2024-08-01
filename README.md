@@ -73,6 +73,12 @@
 2. **Generated SQL Query:** `SELECT COUNT(*) FROM Account WHERE AccountType="Savings"`
 3. **Results:** Displays the count of customers with savings accounts.
 
+### Sample Questions Used
+
+1. **Input1:** "Categorize accounts as ‘IncomeRange’ as <2000 as “Low Income” <5000 and >2000 as “Medium Income ” and >5000 as “High Income” - Limit to 10 results"
+2. **Input2:** "Find the customer with the highest balance and include the account type and the date of the last transaction."
+3. **Input3:** "Find the total balance of ‘’Current’’ AccountType accounts."
+
 ### Contributing
 
 Feel free to submit issues or pull requests if you have any improvements or fixes. Please follow the project's coding style and guidelines.
