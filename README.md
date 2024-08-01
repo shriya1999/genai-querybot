@@ -22,7 +22,7 @@
 1. **Clone the repository:**
 
    ```bash
-   git clone https://github.com/shriya1999/querybot.git
+   git clone https://github.com/shriya1999/genai-querybot.git
    cd querybot
    ```
 
@@ -76,10 +76,6 @@
 ### Contributing
 
 Feel free to submit issues or pull requests if you have any improvements or fixes. Please follow the project's coding style and guidelines.
-
-### License
-
-This project is licensed under the MIT License. See the [LICENSE](LICENSE) file for details.
 
 ### Acknowledgments
 
