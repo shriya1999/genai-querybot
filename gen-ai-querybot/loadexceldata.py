@@ -2,7 +2,7 @@ import pandas as pd
 import sqlite3
 
 # Read the CSV file
-csv_file_path = "/Users/shriyareddy/Documents/Learn/GenAI-Projects/SQL-Gemini/account.csv"
+csv_file_path = "account.csv"
 df = pd.read_csv(csv_file_path)
 
 # Connect to SQLite database (or create it if it doesn't exist)
